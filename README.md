@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aashutosh Soni</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
-<p align ="right" ><img src="https://i.gifer.com/7SvE.gif"></p>
+
 
 
 
