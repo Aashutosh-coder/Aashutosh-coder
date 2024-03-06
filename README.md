@@ -6,7 +6,7 @@ Aashutosh Soni👨‍💻  <img src="GIF/Earth.gif" width="24px">
 <br>
 
 - ▶️ **Youtube [Aashutosh Soni](https://www.youtube.com/channel/UCq4mnd7-qRFbO4wIib3IQ8g)**
-- 🔮 **I am working on MERN DSA and PYTHON** 
+- 🔮 **I am working on MERN, DSA and PYTHON** 
 - 🤝 **Ask me about WEB DEVELOPMENT**
 - 👨‍💻 **Connect with me** [Linkedin](https://www.linkedin.com/in/aashutosh-soni-b814001a3/)
 - ⚡ **CODE | COFFEE | <-BACKTRACKING**
